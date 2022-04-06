@@ -1,0 +1,12 @@
+.navigationBar__list{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 15px;
+}
+
+.navigationBar__list__item{
+    /* background-color:  */
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
